@@ -1,0 +1,26 @@
+[
+  {
+      "name": "Ana Maria",
+      "id": 1,
+      "age": 23,
+      "comments": "Hola a tod@s"
+  },
+  {
+    "name": "Carlos Alberto",
+    "id": 2,
+    "age": 25,
+    "comments": "Soy un hash"
+  },
+  {
+    "name": "Carolina Andrea",
+    "id": 3,
+    "age": 24,
+    "comments": "Vamos a estudiar"
+  },
+  {
+    "name": "Daniel Mauricio",
+    "id": 4,
+    "age": 29,
+    "comments": "Hola a tod@s"
+  }
+]
